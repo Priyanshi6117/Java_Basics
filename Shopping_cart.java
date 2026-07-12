@@ -1,4 +1,3 @@
-package java.Java_Basics;
 import java.util.Scanner;
 public class Shopping_cart {
     public static void main(String[] args){

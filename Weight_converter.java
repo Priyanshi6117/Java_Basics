@@ -1,4 +1,3 @@
-package java.Java_Basics;
 import java.util.Scanner;
 public class Weight_converter {
     public static void main(String[] args){

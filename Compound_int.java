@@ -1,4 +1,3 @@
-package java.Java_Basics;
 import java.util.Scanner;
 public class Compound_int {
     public static void main(){
