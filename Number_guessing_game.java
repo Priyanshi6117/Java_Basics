@@ -5,7 +5,7 @@ public class Number_guessing_game {
         Random ran=new Random();
         int attempts=0;
         int guess;
-        int random=ran.nextInt(1, 11);
+        int random=ran.nextInt(11);
         do{
             System.out.print("Enter your guess between 1-10: ");
             guess=sc.nextInt();
